@@ -8,7 +8,7 @@ import ColumnItems from './column-items';
 export default function App() {
   return (
     <View style = {commonStyles.container}>
-      <center><Text style={commonStyles.TextTitle}> <h1>Layouts</h1> </Text></center>
+      <center><Text style={commonStyles.TextTitle}> <h1>BossApp</h1> </Text></center>
       <ColumnLayouts/>
       <StatusBar style="auto" />
     </View>
